@@ -43,7 +43,9 @@
 <!-- Languages and Tools -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt=""/>
 
+
 ### :hammer_and_wrench: Языки и инструменты :
+
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" height="40"/>&nbsp;
